@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name" translatable="false">regalo</string>
+    <string name="facebook_app_id" translatable="false">1679020615644448</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
